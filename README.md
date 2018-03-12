@@ -6,3 +6,6 @@ we use a phone as wlan hotspot to connect the headless raspi and a laptop. (hm, 
 
 
 nmap -sP 192.168.1.0/24 is useful to retrieve the ip address of the raspi.
+
+
+https://github.com/lhelontra/tensorflow-on-arm/releases
