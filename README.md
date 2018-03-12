@@ -9,3 +9,5 @@ nmap -sP 192.168.1.0/24 is useful to retrieve the ip address of the raspi.
 
 
 https://github.com/lhelontra/tensorflow-on-arm/releases
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=195158
